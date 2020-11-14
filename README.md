@@ -16,9 +16,9 @@ Given the list of tasks below, your application should then assign the Robot a s
 
 ## How to Run bot-o-mat (for MacOS and Linux)
 1. Download and unzip the Red-Ventures zip file from GitHub onto Desktop
-2. In terminal, change working directory to Red-Ventures-Main folder
+2. In terminal, change working directory to Red-Ventures-main folder
   ```
-    cd /path/to/Red-Ventures-Main
+    cd /path/to/Red-Ventures-main
   ```
 3. Setup Python3 virtual environment and activate it (assuming that venv is already installed)
   ```
