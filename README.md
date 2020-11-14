@@ -17,7 +17,8 @@ Given the list of tasks below, your application should then assign the Robot a s
 ## How to Run bot-o-mat (for MacOS and Linux)
 1. Download and open the Red-Ventures zip file from GitHub onto Desktop
 2. In terminal, change working directory to Red-Ventures-Main folder
-  ```cd /path/to/Red-Ventures-Main
+  ```
+    cd /path/to/Red-Ventures-Main
   ```
 3. Setup Python3 virtual environment and activate it (assuming that venv is already installed)
   ```
@@ -25,13 +26,16 @@ Given the list of tasks below, your application should then assign the Robot a s
      source env/bin/activate
   ```
 4. Install the required libraries
-  ```pip install -r requirements.txt
+  ```
+    pip install -r requirements.txt
   ```
 5. Change working directory to bot-o-mat file
-  ```cd bot-o-mate
+  ```
+    cd bot-o-mate
   ```
 6. Run cli.py file
-  ```python cli.py
+  ```
+    python cli.py
   ```
 
 ## Robot
