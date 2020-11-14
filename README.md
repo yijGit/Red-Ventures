@@ -14,6 +14,21 @@ Given the list of tasks below, your application should then assign the Robot a s
   - for example: Bipedal, Larry
 - Set up methods on Robot to complete tasks from the provided list
 
+## How to Run bot-o-mat (for MacOS and Linux)
+1. Download and open the Red-Ventures zip file from GitHub onto Desktop
+2. In terminal, change working directory to Red-Ventures-Main folder
+  ```cd /path/to/Red-Ventures-Main```
+3. Setup Python3 virtual environment and activate it (assuming that venv is already installed)
+  ```python3 -m venv env
+     source env/bin/activate
+  ```
+4. Install the required libraries
+  ```pip install -r requirements.txt```
+5. Change working directory to bot-o-mat file
+  ```cd bot-o-mate```
+6. Run cli.py file
+  ```python cli.py```
+
 ## Robot
 Robot completes tasks and removes them from the list when they are done (i.e. enough time has passed since starting the task).
 
@@ -76,7 +91,6 @@ Be creative and have fun! Use this list or create your own features.
 -~~Add persistance for tasks, bots and leaderboard stats~~
 -~~Some customers want your robots to accomplish tasks that are not on your list, so they'd like for you to add the ability for users to create new kinds of tasks and have the robots complete them~~
 - **Added option to delete bots**
-
 
 ## Authors
 - Scott Hoffman <https://github.com/scottshane>
