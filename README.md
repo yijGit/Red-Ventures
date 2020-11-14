@@ -72,10 +72,10 @@ Tasks have a description and an estimated time to complete.
 Be creative and have fun! Use this list or create your own features.
 - Allow users to create multiple robots at one time :heavy_check_mark:
 - Create a leaderboard for tasks completed by each Robot **first by time, then by # of task** :heavy_check_mark:
-- Create tasks specific for each robot type, ~~this could work in conjunction with the leaderboard~. For e.g. robots that are assigned tasks that their type can’t perform won’t get “credit” for finishing the task.~~ 
+- Create tasks specific for each robot type :heavy_check_mark:, ~~this could work in conjunction with the leaderboard~. For e.g. robots that are assigned tasks that their type can’t perform won’t get “credit” for finishing the task.~~ 
 -~~Add persistance for tasks, bots and leaderboard stats~~
 -~~Some customers want your robots to accomplish tasks that are not on your list, so they'd like for you to add the ability for users to create new kinds of tasks and have the robots complete them~~
-**-Added option to delete bots**
+- **Added option to delete bots**
 
 
 ## Authors
